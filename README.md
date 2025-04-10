@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Sergey 👋
+
+- :dna: I’m currently working at [Universitätsklinikum Tübingen](https://www.medizin.uni-tuebingen.de/en-de/das-klinikum/einrichtungen/zentren/gene-and-rna-therapy-center/ag-skokowa)
+- :microscope: My main occupation is Next Generation Sequencing and Clinical Data
+- :computer: I am learning Unix, python, statisctics and AI
 
 <!--
 **kandabarau/kandabarau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
