@@ -2,7 +2,7 @@
 
 - :hospital: I’m currently working at [Universitätsklinikum Tübingen](https://www.medizin.uni-tuebingen.de/en-de/das-klinikum/einrichtungen/zentren/gene-and-rna-therapy-center/ag-skokowa)
 - :dna: My main occupation is Next Generation Sequencing and Clinical Data
-- :computer: I am learning Unix, python, statisctics and AI
+- :computer: I am learning Unix, python, statisctics and ML
 
 <!--
 **kandabarau/kandabarau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
